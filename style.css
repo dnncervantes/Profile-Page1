@@ -1,0 +1,210 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.nav-bar {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding-left: 15%;
+}
+.nav-links {
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 30px;
+    gap: 30px;
+
+}
+.nav-links a {
+    color: white;
+    text-decoration: none;
+}
+.nav-btn {
+    background-color: #17A3B9;
+    color: white;
+    border: none;
+    align-items: flex-end;
+    margin-right: 30px;
+    /* padding: 3px; */
+}
+.btn {
+    background-color: #17A3B9;
+    color: white;
+    border: none;
+    padding: 3px;
+    margin-left: 700px;
+}
+.container {
+    /* border: 3px solid yellow; */
+}
+.main {
+    /* border: 3px solid red; */
+    display: flex;
+    padding-top: 20px;
+    padding-left: 14%;
+    padding-right: 14%;
+    padding-bottom: 20px;
+    justify-content: center;
+}
+.left-side {
+    /* border: 2px solid green; */
+    margin-right: 20px;
+}
+.user {
+    border: 2px solid lightgray;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+.circle {
+    border: 4px solid #17A3B9;
+    border-radius: 100%;
+    height: 70px;
+    margin-top: -35px;
+}
+.location {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+.pin {
+    height: 20px;
+}
+.edit {
+    display: flex;
+    padding: 5px;
+}
+.gear {
+    height: 20px;
+}
+.education {
+    border: 2px solid lightgray;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    /* margin-left: 20px; */
+}
+.edu-top {
+    color: white;
+    background-color: #323233;
+}
+.right-side {
+    /* border: 2px solid purple; */
+}
+.con-requests {
+    border: 2px solid lightgray;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+}
+.con-req-top{
+    color: white;
+    background-color: #323233;
+    display: flex;
+    align-items: center;
+    padding-right: 2px;
+}
+.todd {
+    display: flex;
+    padding: 3px;
+    align-items: center;
+}
+.todde {
+    border: 2px solid black;
+    border-radius: 100%;
+    height: 25px;
+}
+.check {
+    height: 25px;
+}
+.close {
+    height: 25px;
+}
+.phil {
+    display: flex;
+    padding: 3px;
+    align-items: center;
+}
+.philk {
+    border: 2px solid black;
+    border-radius: 100%;
+    height: 25px;
+}
+.connections {
+    border: 2px solid lightgray;
+}
+.conn-top {
+    color: white;
+    background-color: #323233;
+    display: flex;
+    align-items: center;
+    padding-right: 2px;
+}
+.adrien {
+    display: flex;
+    padding: 3px;
+    align-items: center;
+}
+.adriend {
+    border: 2px solid black;
+    border-radius: 100%;
+    height: 25px;
+}
+.anne {
+    display:flex;
+    padding: 3px;
+    align-items: center;
+}
+.annej {
+    border: 2px solid black;
+    border-radius: 100%;
+    height: 25px;
+}
+.alayne {
+    display:flex;
+    padding: 3px;
+    align-items: center;
+}
+.alaynet {
+    border: 2px solid black;
+    border-radius: 100%;
+    height: 25px;
+}
+.arry {
+    display:flex;
+    padding: 3px;
+    align-items: center;
+}
+.arryy {
+    border: 2px solid black;
+    border-radius: 100%;
+    height: 25px;
+}
+.view {
+    border-top: 2px solid lightgray;
+}
+.circles {
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    background-color: lightgray;
+    text-align: center;
+    color: black;
+}
+.circles500 {
+    border-radius: 50%;
+    width: 40px;
+    height: 15px;
+    background-color: lightgray;
+    text-align: center;
+    color: black;
+}
+.user-top {
+    background-color: #17A3B9;
+    width: 107%;
+    height: 70px;
+    margin-left: -22px;
+}
